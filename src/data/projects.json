@@ -2,7 +2,7 @@
   {
     "title": "BrewBud",
     "imageSrc": "projects/coffe_shop.png",
-    "description": "I led the creation of a user-friendly coffee shop management system, enhancing efficiency and customer service. Utilizing modern technology, I ensured ease of use for both staff and customers, while enabling administrators to conduct data analysis for decision-making.",
+    "description": "I led the development of a user-friendly coffee shop management system, enhancing operational efficiency and customer satisfaction. Leveraging cutting-edge technology, I prioritized intuitive interfaces for staff and patrons, while equipping administrators with data analysis tools for decision-making.",
     "skills": ["Python", "Flask", "Jinja","Docker","Pandas"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com/redxdager/Coffee_shop_project"
@@ -10,7 +10,7 @@
   {
     "title": "BhashaSarthi",
     "imageSrc": "projects/project.png",
-    "description": "BhashaSarthi, your language translator companion, breaks down barriers with seamless translation across diverse languages. From text to speech, it facilitates effortless communication, fostering global connectivity and understanding.",
+    "description": "BhashaSarthi, your trusted language translation companion, transcends linguistic barriers seamlessly, enabling effortless communication across a multitude of languages. Whether converting text to speech or facilitating speech-to-text conversion, it fosters smooth global connectivity, mutual understanding, collaboration, and synergy.",
     "skills": ["Python","Flask","Jinja","Docker"],
     "demo": "https://www.example.com",
     "source": "https://github.com/ReDxDaGer/BhashaSarthi"
@@ -18,7 +18,7 @@
   {
     "title": "Junkie(Discord Bot)",
     "imageSrc": "projects/discord.png",
-    "description": "JunkieBot, a versatile server management bot, empowers administrators with tools for channel nuking, banning/kicking users, avatar display, and message deletion, streamlining server operations and enhancing user experience.",
+    "description": "JunkieBot, the all-in-one server management solution, empowers administrators with an array of versatile tools. From streamlined channel management to user moderation functionalities like banning and kicking, alongside features like avatar display and message pruning, it optimizes server operations while enriching user engagement.",
     "skills": ["Python", "Docker","Discordpy"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com/redxdager/DiscordBot"
