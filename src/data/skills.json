@@ -8,16 +8,20 @@
     "imageSrc": "skills/C3.png"
   },
   {
+    "title": "C++",
+    "imageSrc": "skills/cpp.svg"
+  },
+  {
     "title":"Rust",
     "imageSrc":"skills/rust.png"
   },
   {
     "title": "Bash",
-    "imageSrc": "skills/bash.png"
+    "imageSrc": "skills/bash.svg"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/js2.png"
+    "imageSrc": "skills/js.svg"
   },
   {
     "title": "MySQL",
@@ -62,5 +66,9 @@
   {
     "title":"Nextjs",
     "imageSrc":"skills/next.png"
+  },
+  {
+    "title":"MongoDB",
+    "imageSrc":"skills/mongodb.png"
   }
 ]
