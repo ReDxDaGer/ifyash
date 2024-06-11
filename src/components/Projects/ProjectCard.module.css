@@ -13,7 +13,6 @@
 .image {
   margin-bottom: 26px;
   border-radius: 20px;
-  height: 20%;
 }
 
 .title {
@@ -25,7 +24,6 @@
   margin-top: 6px;
   font-size: 25px;
   font-weight: 345px;
-  color: rgb(216, 218, 220);
 }
 
 .skills {
