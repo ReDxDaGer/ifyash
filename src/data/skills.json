@@ -12,20 +12,12 @@
     "imageSrc": "skills/cpp.svg"
   },
   {
-    "title":"Rust",
-    "imageSrc":"skills/rust.png"
-  },
-  {
     "title": "Bash",
     "imageSrc": "skills/bash.svg"
   },
   {
     "title": "JavaScript",
     "imageSrc": "skills/js.svg"
-  },
-  {
-    "title": "MySQL",
-    "imageSrc": "skills/mysql.png"
   },
   {
     "title": "React",

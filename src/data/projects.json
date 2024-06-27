@@ -1,13 +1,5 @@
 [
   {
-    "title": "BrewBud",
-    "imageSrc": "projects/coffe_shop.png",
-    "description": "I led the development of a user-friendly coffee shop management system, enhancing operational efficiency and customer satisfaction. Leveraging cutting-edge technology, I prioritized intuitive interfaces for staff and patrons, while equipping administrators with data analysis tools for decision-making.",
-    "skills": ["Python", "Flask", "Jinja","Docker","Pandas"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com/redxdager/Coffee_shop_project"
-  },
-  {
     "title": "BhashaSarthi",
     "imageSrc": "projects/project.png",
     "description": "BhashaSarthi, your trusted language translation companion, transcends linguistic barriers seamlessly, enabling effortless communication across a multitude of languages. Whether converting text to speech or facilitating speech-to-text conversion, it fosters smooth global connectivity, mutual understanding, collaboration, and synergy.",
@@ -22,5 +14,12 @@
     "skills": ["Python", "Docker","Discordpy"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com/redxdager/DiscordBot"
+  },
+  {
+    "title": "ChatWallah",
+    "imageSrc": "projects/project.png",
+    "description": "Chatwallah is a Python application showcasing how to create a real-time chat room using Flask and SocketIO. This tutorial project aims to guide developers in building a live chat application with Python. By exploring this example, developers can grasp the fundamentals of implementing real-time features and enhancing user interaction through web sockets",
+    "skills": ["Python", "SocketIO","Flask"],
+    "source": "https://github.com/ReDxDaGer/Chatwallah"
   }
 ]
