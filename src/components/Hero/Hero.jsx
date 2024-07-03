@@ -9,8 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Yash Mehrotra</h1>
         <p className={styles.description}>
-          I'm a full-stack and Android developer with 1 year of experience using ReactJS , React Native and
-          NodeJS. Reach out if you'd like to learn more!
+        Tech enthusiast crafting websites and Android apps. Teaching computers to see in my spare time - robot assistants, anyone? Let's chat about code, AI, or why my toaster won't learn facial recognition. Open to exciting opportunities!
         </p>
         <a href="https://redxdager.github.io/resume/" className={styles.contactBtn}>
           Resume

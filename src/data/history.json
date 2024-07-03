@@ -1,14 +1,4 @@
 [
-
-  {
-    "role":"",
-    "organisation":"St. James School , Hardoi",
-    "startDate": "2009",
-    "endDate" : "March, 2023",
-    "experiences" : ["12th (PCM + Computer Science)","10th"],
-    "imageSrc" : "history/james-logo.png"
-  },
-
   {
     "role": "",
     "organisation": "Indian Institute of Technology Madras",
@@ -16,5 +6,13 @@
     "endDate": "Present",
     "experiences": ["Bachelor of Science, Data Science and Applications"],
     "imageSrc": "history/iit-madras.png"
+  },
+  {
+    "role":"",
+    "organisation":"St. James School , Hardoi",
+    "startDate": "2009",
+    "endDate" : "March, 2023",
+    "experiences" : ["12th (PCM + Computer Science)","10th"],
+    "imageSrc" : "history/james-logo.png"
   }
 ]
