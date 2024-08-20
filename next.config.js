@@ -11,8 +11,7 @@ const nextConfig = {
   experimental: {
     serverActions: true,
   },
-  distDir: 'dist',
-  reactStrictMode: true,
+  reactStrictMode: false,
 };
 
 module.exports = nextConfig;
