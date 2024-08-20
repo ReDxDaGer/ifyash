@@ -37,6 +37,12 @@ export default function Experience() {
                     : "0.4rem solid rgba(255, 255, 255, 0.5)",
               }}
               date={item.date}
+              dateStyle={{
+                background:
+                  theme === "light" ? "#9ca3af" : "rgba(255, 255, 255, 0.5)",
+                color: theme === "light" ? "white" : "black",
+                padding: "0.5rem",
+              }}
               icon={item.icon}
               iconStyle={{
                 background:
