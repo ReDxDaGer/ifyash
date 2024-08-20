@@ -36,13 +36,14 @@ export default function Experience() {
                     ? "0.4rem solid #9ca3af"
                     : "0.4rem solid rgba(255, 255, 255, 0.5)",
               }}
-              date={item.date}
-              dateStyle={{
-                background:
-                  theme === "light" ? "#9ca3af" : "rgba(255, 255, 255, 0.5)",
-                color: theme === "light" ? "white" : "black",
-                padding: "0.5rem",
-              }}
+              // date={item.date}
+              //  dateStyle={{
+              //   background:
+              //     theme === "light" ? "#9ca3af" : "rgba(255, 255, 255, 0.5)",
+              //   color: theme === "light" ? "white" : "black",
+              //   padding: "0.5rem",
+              //   marginLeft : "1.5rem",
+              // }}
               icon={item.icon}
               iconStyle={{
                 background:
@@ -54,6 +55,9 @@ export default function Experience() {
               <p className="font-normal !mt-0">{item.location}</p>
               <p className="!mt-1 !font-normal text-gray-700 dark:text-white/75">
                 {item.description}
+              </p>
+              <p className="font-normal !mt-1 text-gray-400 dark:text-white/55">
+                {item.date}
               </p>
             </VerticalTimelineElement>
           </React.Fragment>
