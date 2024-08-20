@@ -386,26 +386,26 @@ module.exports = {
 
 /***/ }),
 
-/***/ 1946:
+/***/ 5860:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2038));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 6762));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 3838));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 120));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 6762));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2617));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 3945));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 4320))
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 4320));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 3945))
 
 /***/ }),
 
-/***/ 7203:
+/***/ 5518:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 125, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 6249, 23));
-Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 7844, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 8782, 23));
+Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 7844, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 1522, 23))
 
 /***/ }),
@@ -434,7 +434,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7640);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _section_heading__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7038);
-/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5996);
+/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9400);
 /* harmony import */ var _lib_hooks__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6229);
 /* __next_internal_client_entry_do_not_use__ default auto */ 
 
@@ -543,8 +543,8 @@ var jsx_runtime_ = __webpack_require__(6931);
 var react_experimental_ = __webpack_require__(7640);
 // EXTERNAL MODULE: ./components/section-heading.tsx
 var section_heading = __webpack_require__(7038);
-// EXTERNAL MODULE: ./node_modules/framer-motion/dist/es/render/dom/motion.mjs + 169 modules
-var motion = __webpack_require__(5996);
+// EXTERNAL MODULE: ./node_modules/framer-motion/dist/es/render/dom/motion.mjs + 171 modules
+var motion = __webpack_require__(9400);
 // EXTERNAL MODULE: ./lib/hooks.ts
 var hooks = __webpack_require__(6229);
 // EXTERNAL MODULE: ./node_modules/next/dist/client/app-call-server.js
@@ -785,7 +785,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7640);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(5996);
+/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(9400);
 /* harmony import */ var _lib_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1062);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1621);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_3__);
@@ -877,7 +877,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_image__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_image__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7640);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(5996);
+/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(9400);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1621);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var react_icons_bs__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(5484);
@@ -1077,11 +1077,11 @@ var section_heading = __webpack_require__(7038);
 // EXTERNAL MODULE: ./lib/data.ts
 var data = __webpack_require__(1062);
 // EXTERNAL MODULE: ./node_modules/framer-motion/dist/es/value/use-scroll.mjs + 12 modules
-var use_scroll = __webpack_require__(8239);
-// EXTERNAL MODULE: ./node_modules/framer-motion/dist/es/value/use-transform.mjs + 3 modules
-var use_transform = __webpack_require__(4250);
-// EXTERNAL MODULE: ./node_modules/framer-motion/dist/es/render/dom/motion.mjs + 169 modules
-var motion = __webpack_require__(5996);
+var use_scroll = __webpack_require__(7650);
+// EXTERNAL MODULE: ./node_modules/framer-motion/dist/es/value/use-transform.mjs + 4 modules
+var use_transform = __webpack_require__(4604);
+// EXTERNAL MODULE: ./node_modules/framer-motion/dist/es/render/dom/motion.mjs + 171 modules
+var motion = __webpack_require__(9400);
 ;// CONCATENATED MODULE: ./components/project.tsx
 /* __next_internal_client_entry_do_not_use__ default auto */ 
 
@@ -1194,7 +1194,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7640);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5996);
+/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9400);
 /* __next_internal_client_entry_do_not_use__ default auto */ 
 
 
@@ -1256,7 +1256,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _section_heading__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7038);
 /* harmony import */ var _lib_data__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1062);
 /* harmony import */ var _lib_hooks__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6229);
-/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5996);
+/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9400);
 /* __next_internal_client_entry_do_not_use__ default auto */ 
 
 
@@ -1594,7 +1594,7 @@ const skillsData = [
 /* harmony import */ var _context_active_section_context__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9238);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7640);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var react_intersection_observer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1257);
+/* harmony import */ var react_intersection_observer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4395);
 
 
 
@@ -2082,7 +2082,7 @@ const getErrorMessage = (error)=>{
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [858], () => (__webpack_exec__(2514)));
+var __webpack_exports__ = __webpack_require__.X(0, [44], () => (__webpack_exec__(2514)));
 module.exports = __webpack_exports__;
 
 })();

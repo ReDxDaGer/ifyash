@@ -12,6 +12,7 @@ const nextConfig = {
     serverActions: true,
   },
   distDir: 'dist',
+  reactStrictMode: true,
 };
 
 module.exports = nextConfig;
