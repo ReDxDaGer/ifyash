@@ -9,7 +9,7 @@ export default function Footer() {
       <small className="block text-xs ">
         Made with ❤️ by{" "}
         <a
-          href="https://github.com/ifyash"
+          href="https://github.com/redxdager/ifyash"
           className="text-blue-500 hover:underline"
           >Github Repo</a>
       </small>
