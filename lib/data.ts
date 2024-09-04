@@ -66,7 +66,7 @@ export const projectsData = [
     title: "BhashaSarthi",
     description:
       "A translation tool built using Flask and googletrans library. It facilitates seamless translation and language understanding, making content accessible to a wider audience.",
-    tags: ["Python", "Flask", "googletrans"],
+    tags: ["Python", "Flask", "googletrans" ,"FastAPI" , "NextJS"],
     link : "https://github.com/redxdager/BhashaSarthi",
     // imageUrl: bhashaSarthiImg, // You'll need to provide this image
   },
