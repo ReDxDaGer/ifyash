@@ -45,7 +45,7 @@ export const experiencesData = [
   },
   {
     title: "Lead: Linux Community",
-    location: "GDSC IIT Madras, Chennai",
+    location: "GDG IIT Madras, Chennai",
     description:
       "Leading the Linux Community in Google Developer Student Clubs (GDSC) at IIT Madras.",
     icon: React.createElement(FaLinux),
