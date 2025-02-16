@@ -36,19 +36,11 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "First Year Student",
+    title: "Data Science Intern",
     location: "IIT Madras, Chennai",
     description:
-      "Currently pursuing a BS in Data Science and Applications at IIT Madras.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2023 - present",
-  },
-  {
-    title: "Lead: Linux Community",
-    location: "GDG IIT Madras, Chennai",
-    description:
-      "Leading the Linux Community in Google Developer Student Clubs (GDSC) at IIT Madras.",
-    icon: React.createElement(FaLinux),
+    "Currently working on research projects focusing on data science and machine learning applications.",
+    icon: React.createElement(FaPython),
     date: "2024 - present",
   },
   {
@@ -57,52 +49,70 @@ export const experiencesData = [
     description:
       "Gaining practical experience in AI development through an internship.",
     icon: React.createElement(FaPython),
-    date: "2024 - present",
+    date: "Aug-2024 - Dec-2024",
   },
-] as const;
+  {
+    title: "First Year Student",
+    location: "IIT Madras, Chennai",
+    description:
+    "Currently pursuing a BS in Data Science and Applications at IIT Madras.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2023 - present",
+  },
+  {
+    title: "Lead: Linux Community",
+    location: "GDG IIT Madras, Chennai",
+    description:
+    "Leading the Linux Community in Google Developer Student Clubs (GDSC) at IIT Madras.",
+    icon: React.createElement(FaLinux),
+    date: "Jan-2024 - Jan-2025",
+  },
+  ] as const;
 
-export const projectsData = [
-  {
-    title: "BhashaSarthi",
-    description:
-      "A translation tool built using Flask and googletrans library. It facilitates seamless translation and language understanding, making content accessible to a wider audience.",
-    tags: ["Python", "Flask", "googletrans" ,"FastAPI" , "NextJS"],
-    link : "https://github.com/redxdager/BhashaSarthi",
-    // imageUrl: bhashaSarthiImg, // You'll need to provide this image
-  },
-  {
-    title: "Promotify",
-    description:
-      "A platform for promoting content or services, built with Flask and SQLite3. It helps organize promotional campaigns and engage with target audiences through effective data management.",
-    tags: ["Python", "Flask", "SQLite3"],
-    link : "https://github.com/redxdager/",
-    // imageUrl: promotifyImg, // You'll need to provide this image
-  },
-  {
-    title: "Chatwallah",
-    description:
-      "A real-time chat application . It enhances user interaction by providing a platform for instant messaging with a responsive interface.",
-    tags: ["Python", "Flask", "Socket.IO", "JavaScript", "HTML", "CSS"],
-    link:"https://github.com/redxdager/Chatwallah",
-    // imageUrl: chatwallahImg, // You'll need to provide this image
-  },
-  {
-    title: "Data Analysis on Zomato Dataset",
-    description:
-      "An analysis project using Pandas, Matplotlib, and Seaborn to uncover insights into customer preferences, popular cuisines, and restaurant ratings from Zomato data.",
-    tags: ["Python", "Pandas", "Matplotlib", "Seaborn"],
-    link : "https://github.com/redxdager/Zomato-Data-Analysis",
-    // imageUrl: zomatoAnalysisImg, // You'll need to provide this image
-  },
-  {
-    title: "Emotion Detection with YOLOv5",
-    description:
-      "A custom-trained YOLOv5 model for detecting faces and identifying emotions in images or real-time video streams. Useful for security systems, customer feedback analysis, and interactive marketing.",
-    tags: ["Python", "YOLOv5", "Computer Vision", "Machine Learning"],
-    link : "https://github.com/redxdager/Face-Expression-Recognition"
-    // imageUrl: emotionDetectionImg, // You'll need to provide this image
-  },
-] as const;
+  export const projectsData = [
+    {
+      title: "BhashaSarthi",
+      description:
+        "A comprehensive translation tool leveraging Flask and googletrans library. It enables real-time language translation and understanding, breaking down language barriers for global communication.",
+      tags: ["Python", "Flask", "googletrans", "FastAPI", "NextJS"],
+      link: "https://github.com/redxdager/BhashaSarthi",
+    },
+    {
+      title: "Promotify",
+      description:
+        "A sophisticated marketing platform built with Flask and SQLite3. Features campaign management, audience targeting, and analytics dashboard for data-driven promotional strategies.",
+      tags: ["Python", "Flask", "SQLite3"],
+      link: "https://github.com/redxdager/",
+    },
+    {
+      title: "Chatwallah",
+      description:
+        "A feature-rich real-time chat application with instant messaging capabilities. Implements Socket.IO for seamless communication and includes user authentication, message history, and responsive design.",
+      tags: ["Python", "Flask", "Socket.IO", "JavaScript", "HTML", "CSS"],
+      link: "https://github.com/redxdager/Chatwallah",
+    },
+    {
+      title: "Data Analysis on Zomato Dataset",
+      description:
+        "Comprehensive data analysis project utilizing advanced Python libraries to extract meaningful insights from Zomato's restaurant data. Includes interactive visualizations and predictive modeling.",
+      tags: ["Python", "Pandas", "Matplotlib", "Seaborn"],
+      link: "https://github.com/redxdager/Zomato-Data-Analysis",
+    },
+    {
+      title: "Emotion Detection with YOLOv5",
+      description:
+        "State-of-the-art emotion recognition system using custom-trained YOLOv5 architecture. Achieves high accuracy in real-time facial expression analysis with optimized performance.",
+      tags: ["Python", "YOLOv5", "Computer Vision", "Machine Learning"],
+      link: "https://github.com/redxdager/Face-Expression-Recognition"
+    },
+    {
+      title: "Boo Discord Bot",
+      description:
+        "Advanced Discord bot featuring image analysis, natural language processing, and automated task management. Includes moderation tools, custom commands, and integration with external APIs.",
+      tags: ["Python", "Discord.py", "Machine Learning", "API Integration"],
+      link: "https://github.com/VVIP-Kitchen/boo"
+    }
+  ] as const;
 
 export const skillsData = [
   "JavaScript",
@@ -110,6 +120,8 @@ export const skillsData = [
   "React",
   "Next.js",
   "Node.js",
+  "AWS",
+  "Azure",
   "Git",
   "Docker",
   "Bash",
@@ -122,4 +134,5 @@ export const skillsData = [
   "Linux",
   "SQL",
   "MongoDB",
+  
 ] as const;
