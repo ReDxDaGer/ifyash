@@ -41,7 +41,7 @@ export const experiencesData = [
     description:
     "Currently working on research projects focusing on data science and machine learning applications.",
     icon: React.createElement(FaPython),
-    date: "2024 - present",
+    date: "Dec-2024 - May-2025",
   },
   {
     title: "AI Development Intern",
